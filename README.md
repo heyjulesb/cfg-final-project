@@ -1,6 +1,8 @@
 # Cloudtunes
 Cloudtunes is a weather app that chooses music for users based on local weather.
 
+![image](https://user-images.githubusercontent.com/67839718/196430327-db354267-8754-4301-b1a5-dae2a6509560.png)
+
 ## File Structure
 ### __app.py__
 Creates an instance of the app.
